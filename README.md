@@ -6,7 +6,7 @@ As the name implies, it's a TODO list web app.
 
 Of course a million TODO web apps exist already. It is widely known that TODO apps are more or less the "hello world" of web apps.
 
-The reason I wanted to have a TOSO app, is that I wanted one that is super basic and that doesn't require any build step and that can work as an offline-capable PWA. So this is that, and here it is. Thanks, ChatGPT! :)
+The reason I wanted to have a TODO app, is that I wanted one that is super basic and that doesn't require any build step and that can work as an offline-capable PWA. So this is that, and here it is. Thanks, ChatGPT! :)
 
 https://ctsrc.github.io/todo/
 
