@@ -2,6 +2,8 @@
 
 An offline-capable PWA that ChatGPT made for me. Some small tweaks and additions were later added by me.
 
+As the name implies, it's a TODO list web app. Of course a million of those exist already, but I wanted a super basic one that doesn't require any build step and that can work as an offline-capable PWA. So here it is. Thanks, ChatGPT! :)
+
 https://ctsrc.github.io/todo/
 
 ## Favicon
