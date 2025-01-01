@@ -1,8 +1,6 @@
 # TODO PWA
 
-This is an offline-capable PWA that ChatGPT made for me.
-
-Let's see if it works as-is :)
+An offline-capable PWA that ChatGPT made for me. Some small tweaks and additions were later added by me.
 
 https://ctsrc.github.io/todo/
 
