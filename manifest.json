@@ -2,7 +2,7 @@
   "name": "TODO List",
   "short_name": "TODO",
   "description": "A minimal TODO list PWA",
-  "start_url": "/",
+  "start_url": "/todo/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
