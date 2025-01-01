@@ -1,19 +1,19 @@
 {
-  "name": "TODO List",
+  "name": "TODO PWA",
   "short_name": "TODO",
   "description": "A minimal TODO list PWA",
   "start_url": "/todo/",
   "display": "standalone",
-  "background_color": "#ffffff",
+  "background_color": "#121212",
   "theme_color": "#007bff",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "icons/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icon-512.png",
+      "src": "icons/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
