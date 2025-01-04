@@ -1,6 +1,7 @@
 # TODO PWA
 
-An offline-capable PWA that ChatGPT made for me. Some small tweaks and additions were later added by me.
+An offline-capable [Progressive Web Application](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/What_is_a_progressive_web_app) (PWA)
+that ChatGPT made for me. Some small tweaks and additions were later added by me.
 
 As the name implies, it's a TODO list web app.
 
